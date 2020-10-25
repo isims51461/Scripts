@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Description: Script to build Data Services Project Database
+#Description: Script to build Data Services File Database
 
 #Author: Ian S.
 
