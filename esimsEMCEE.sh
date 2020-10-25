@@ -11,4 +11,4 @@ a=script
 b=ship
 c=wreck
 
-echo " $a $b $c 
+echo " $a $b $c "
