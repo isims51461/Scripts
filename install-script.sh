@@ -13,7 +13,7 @@ if
 
 
 then 
-echo " you need root access MF "
+echo " you need root access to run this command "
 exit 10
 fi 
 
