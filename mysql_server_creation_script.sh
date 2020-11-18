@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Description: Creation of mysql webserver to eliminate errors
+#Description: Creation of lampstack webserver script to eliminate errors
 
 #Author: Ian S
 
